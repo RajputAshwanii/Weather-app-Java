@@ -5,14 +5,19 @@ A simple Java-based Weather App that fetches weather details like temperature, h
 Features:
 
 *Displays current temperature in Celsius.
+
 *Displays weather description.
+
 *Shows "feels like" temperature.
+
 *Shows humidity percentage.
+
 *Simple, intuitive user interface built with Java Swing.
 
 Requirements:
 
 *Java Development Kit (JDK) 8 or above.
+
 *Active internet connection to fetch data from the OpenWeatherMap API.
 
 Setup:
