@@ -2,6 +2,7 @@ Weather App - Java
 
 A simple Java-based Weather App that fetches weather details like temperature, humidity, description, and feels like temperature for a given city using the OpenWeatherMap API.
 
+
 Features:
 
 *Displays current temperature in Celsius.
@@ -14,11 +15,13 @@ Features:
 
 *Simple, intuitive user interface built with Java Swing.
 
+
 Requirements:
 
 *Java Development Kit (JDK) 8 or above.
 
 *Active internet connection to fetch data from the OpenWeatherMap API.
+
 
 Setup:
 
@@ -38,6 +41,7 @@ javac WeatherApp.java
 
 java WeatherApp
 
+
 API Key:
 
 This app uses the OpenWeatherMap API to get weather data. You need to get an API key to use it.
@@ -51,6 +55,7 @@ This app uses the OpenWeatherMap API to get weather data. You need to get an API
 String apiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=YOUR_API_KEY";
 
 4.Save the file and recompile the program.
+
 
 Usage:
 
