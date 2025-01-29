@@ -23,15 +23,19 @@ Requirements:
 Setup:
 
 1.Clone the repository:
+
 git clone https://github.com/RajputAshwanii/Weather-app-Java.git
 
 2.Navigate into the project folder:
+
 cd Weather-app-Java
 
 =>Make sure you have JDK 8+ installed on your machine. If not, download it from the official Java website.
 
 3.Compile and run the application:
+
 javac WeatherApp.java
+
 java WeatherApp
 
 API Key:
