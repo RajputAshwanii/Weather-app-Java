@@ -46,5 +46,7 @@ String apiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&a
 Usage:
 
 1.Launch the application.
+
 2.Enter a city name in the provided text field and click "Get Details."
+
 3.The weather details including temperature, description, humidity, and feels like temperature will be displayed.
